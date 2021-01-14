@@ -1,5 +1,5 @@
-![GitHub package.json version](https://img.shields.io/github/package-json/v/jefferson1984/projeto-navBar)
-![GitHub language count](https://img.shields.io/github/languages/count/jefferson1984/projeto-navBar)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/jefferson1984/projeto-sidebar-modal)
+![GitHub language count](https://img.shields.io/github/languages/count/jefferson1984/projeto-sidebar-modal)
 
 ## Projeto SideBar-Modal.
 
@@ -11,9 +11,9 @@ useState , useContext e Condicional
 
 ## Imagem do Projeto
 
-[projeto-navbar.netlify.app](https://projeto-navbar.netlify.app/)
+[projeto-sidebar-modal.netlify.app](https://projeto-sidebar-modal.netlify.app/)
 
-<img src="https://github.com/jefferson1984/projeto-navBar/blob/main/navbar2.png">
+<img src="https://github.com/jefferson1984/projeto-sidebar-modal/blob/main/sidebar2.png">
 
 ## Reproduzi-lo
 
